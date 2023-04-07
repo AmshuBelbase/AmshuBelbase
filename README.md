@@ -11,11 +11,11 @@
 - 🌱 I’m currently learning Flutter  
   
 
-- 📫 How to reach me ?? 
-        Contact me : 9867783083 (Nepal)
-                     8489011801 (India) 
-        Email me : amsubelbs@gmail.com 
-        Website : https://amshubelbase.com.np/   
+- 📫 How to reach me ?? <br/> 
+        Contact me : 9867783083 (Nepal)<br/> 
+                     8489011801 (India) <br/> 
+        Email me : amsubelbs@gmail.com <br/> 
+        Website : https://amshubelbase.com.np/   <br/> 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
