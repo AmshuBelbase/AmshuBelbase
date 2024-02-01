@@ -12,8 +12,7 @@
   
 
 - 📫 How to reach me ?? <br/> 
-        Contact me : 9867783083 (Nepal)<br/> 
-                     8489011801 (India) <br/> 
+        Contact me : +91 8489011801 (India) || +977 9867783083 (Nepal) <br/> 
         Email me : amsubelbs@gmail.com <br/> 
         Website : https://amshubelbase.com.np/   <br/> 
   
