@@ -5,15 +5,12 @@
 - 👋 Hi, I’m @AmshuBelbase  
   
 
-- 👀 I’m interested in Web Developing/Designing and App Develpoment.  
-  
-
-- 🌱 I’m currently learning Flutter  
+- 👀 I’m interested in Software Development & Generative AI.  
   
 
 - 📫 How to reach me ?? <br/> 
         Contact me : +91 8489011801 (India) || +977 9867783083 (Nepal) <br/> 
-        Email me : amsubelbs@gmail.com <br/> 
+        Email me : amsubelbs@gmail.com || ab0667@srmist.edu.in <br/> 
         Website : https://amshubelbase.com.np/   <br/> 
   
 
